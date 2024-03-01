@@ -494,5 +494,5 @@ export
   updateUserAvatar,
   updateUserCoverImage,
   getUserChannelProfile,
-  getWatchHistor
+  getWatchHistory
 }
